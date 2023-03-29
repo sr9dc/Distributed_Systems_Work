@@ -1,0 +1,17 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Crime Data</name>
+  <Placemark>
+    <name>-111.956,33.5043</name>
+    <Point>
+      <coordinates>-111.956,33.5043</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>-111.95,33.5024</name>
+    <Point>
+      <coordinates>-111.95,33.5024</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
