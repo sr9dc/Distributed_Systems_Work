@@ -1,8 +1,4 @@
-# Distributed_Systems_Work
-
-
-
-# Distributed Systems for Information Systems Management (95-702)
+# Distributed Systems for Information Systems Management (95-702) Personal Work
 
 This repository contains my work for the course Distributed Systems for Information Systems Management (95-702), taken at Carnegie Mellon University. In this course, I learned the principles underlying distributed computing and the design of distributed systems, and exercised these principles in the context of real applications by using technologies such as XML, SOAP, Web services, and JEE-based application servers. Additionally, I was able to gain hands-on experience with JEE frameworks, Hadoop and Spark, and Android.
 
